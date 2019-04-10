@@ -1,7 +1,7 @@
 <?php 
 
 
-putenv($setting)
+//que raro me equivoque
 
 //Hola
 /* 
